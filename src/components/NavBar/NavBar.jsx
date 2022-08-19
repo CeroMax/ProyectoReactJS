@@ -3,7 +3,7 @@
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';*/
-import Nav from 'react-bootstrap/Nav';
+
 import './estilosNavBar.css';
 function NavBar (){
     return(
