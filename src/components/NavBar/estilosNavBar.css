@@ -10,9 +10,10 @@
 .NavBar-Texto{
     margin: 10px;
     padding: 10px;
-    width: 70%;
+    width: 100%;
     background-color: bisque;
-    align-items: flex-start;
+    align-items:top;
+    text-align: center;
 }
 .Titulo{
     font-family: "times new roman";

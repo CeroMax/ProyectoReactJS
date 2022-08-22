@@ -7,8 +7,14 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-          <NavBar></NavBar>
+          <NavBar/>
       </header>
+      <body>
+        <h1>"LALALALALAL"</h1>
+      </body>
+      <footer>
+
+      </footer>
     </div>
   );
 }
