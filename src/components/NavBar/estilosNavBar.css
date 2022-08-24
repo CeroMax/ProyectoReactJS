@@ -9,15 +9,23 @@
     /*text-align: center;*/
 }
 .NavBar-Texto{
-    margin: 10px;
-    padding: 10px;
+    margin: 0px;
+    padding: 0px;
     width: 100%;
-    background-color: bisque;
-    align-items:top;
+    /*background-color: bisque;*/
+    background-image: url(../../assets/fotos/fotoferreteria5-min.png);
+    align-items:center;
     text-align: center;
 }
 .Titulo{
     font-family: "times new roman";
     font-size: 50px;
     color:black;
+}
+.Alinear{
+    float: left;
+    display: inline;
+}
+.AlinearDerecha{
+    float: right;
 }

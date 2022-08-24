@@ -3,7 +3,7 @@ import './App.css';
 import NavBar from './components/NavBar/NavBar';
 import React from 'react';
 
-function App() {
+export function App() {
   return (
     <>
       <header className="App-header">
@@ -19,4 +19,4 @@ function App() {
   );
 }
 
-export default App;
+//export default App;
