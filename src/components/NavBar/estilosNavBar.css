@@ -29,3 +29,10 @@
 .AlinearDerecha{
     float: right;
 }
+.ver{
+    display: flex;
+    /*flex-direction: row;*/
+}
+.AlinearIzquierda{
+    float: left;
+}
